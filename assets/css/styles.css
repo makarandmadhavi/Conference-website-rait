@@ -1,5 +1,5 @@
-h1 {
-    font-size: 2rem;
+h2 {
+    font-size: 1.9rem;
     text-align: center;
 }
 @font-face {
@@ -10,11 +10,13 @@ body {
     margin: 20px;
     font-family: roboto;
 }
-.heading {
-    margin-bottom: 5px;
-}
+
 nav {
     background-color: #9E1C36 !important;
+}
+
+.nav-link {
+  cursor: pointer;
 }
 
 nav ul {
@@ -104,4 +106,17 @@ nav li {
 
   .main li {
       font-weight: 300;
+  }
+
+  @media only screen and (max-width: 600px) {
+    .logo {
+      margin-left: 9vmax;
+    }
+    .title h2{
+      font-size: 1.2rem;
+    }
+    .container {
+      margin: 0 !important;
+      padding: 0 !important;
+    }
   }
