@@ -22,33 +22,33 @@
         
 
         <div class="wrapper">
-            <header class="header">
-                <nav class="navbar navbar-expand-lg navbar-dark">
+           
+                <nav class="navbar navbar-expand-lg navbar-dark header">
                     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
                         aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="navbar-toggler-icon"></span>
                     </button>
                     <div class="collapse navbar-collapse" id="navbarNav">
                         <ul class="navbar-nav">
-                            <li onclick="home()" class="nav-item active">
-                                <div class="nav-link" style="font-weight: 600; font-size: large;">Home </div>
+                            <li onclick="changetab(this.id)" class="nav-item nav-link" id="home">
+                               Home
                             </li>
-                            <li class="nav-item nav-link" onclick="paper()">
+                            <li class="nav-item nav-link" onclick="changetab(this.id)" id="paper">
                                 Call for Paper
                             </li>
-                            <li class="nav-item nav-link" onclick="committees()">
+                            <li class="nav-item nav-link" onclick="changetab(this.id)" id="committees">
                                Committees
                             </li>
-                            <li class="nav-item nav-link" onclick="speaker()">
+                            <li class="nav-item nav-link" onclick="changetab(this.id)" id="speaker">
                                Speakers
                             </li>
-                            <li class="nav-item nav-link" onclick="author()">
+                            <li class="nav-item nav-link" onclick="changetab(this.id)" id="author">
                                 For Authors
                             </li>
-                            <li class="nav-item nav-link" onclick="venue()">
+                            <li class="nav-item nav-link" onclick="changetab(this.id)" id="venue">
                                 Venue
                             </li>
-                            <li class="nav-item nav-link" onclick="contact()">
+                            <li class="nav-item nav-link" onclick="changetab(this.id)" id="contact">
                                 Contact Us
                             </li>
         
@@ -57,14 +57,14 @@
         
                     </div>
                 </nav>
-            </header>
+          
             <article id="main" class="main">
-                <h5 class="text-center">Content Heading</h5>
+                <h5 class="text-center card-header">Content Heading</h5>
                 <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
                     Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit
                     amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
             </article>
-            <aside class="aside aside-1">Sponsors</aside>
+            <aside class="aside aside-1 card-header">Sponsors</aside>
             <aside class="aside aside-2">
                 <div class="card text-center">
                     <div class="card-header">
