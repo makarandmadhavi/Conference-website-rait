@@ -4,12 +4,6 @@ h2 {
   color: #9E1C36;
 }
 
-
-@font-face {
-  font-family: roboto;
-  src: url(fonts/roboto-regular.ttf);
-}
-
 body {
   margin: 20px;
   font-family: roboto;
@@ -123,7 +117,7 @@ nav li {
 }
 
 p {
-  font-weight: 300;
+  font-weight: 400;
 }
 
 .main li {
