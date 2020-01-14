@@ -141,6 +141,10 @@ p {
   #map {
     width: 100%;
   }
+  
+  .carousel-item{
+    height: 250px;
+  }
 }
 .nav-link:hover {
   background-color: white;
@@ -157,6 +161,18 @@ p {
   color: #9E1C36 !important;
 }
 
-.carousel-item img {
-  height :200px;
+.carousel-item .img {
+  height :350px;
+  background-size: cover;
+}
+.img1{
+  background: url('../img/raitpic1.jpg');
+  background-position: 0 -50px;
+}
+.img2{
+  background: url('../../assets/img/raitcircle.jpg');
+  background-position: 0 -130px;
+}
+.img3{
+  background: url('../../assets/img/auditorium.jpg');
 }
