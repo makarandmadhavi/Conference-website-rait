@@ -43,7 +43,7 @@
                             Committees
                         </li>
                         <li class="nav-item nav-link" onclick="changetab(this.id)" id="speaker">
-                            Keynote Speakers
+                            Keynote Spealers
                         </li>
                         <li class="nav-item nav-link" onclick="changetab(this.id)" id="author">
                             For Authors
