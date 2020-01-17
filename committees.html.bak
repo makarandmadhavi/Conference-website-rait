@@ -5,6 +5,7 @@
             <h5 class="card-title text-center">Chief Patron</h5>
             <img src="./assets/img/dyp.jpeg" alt="...">
             <h5 class="text-center">Hon. Dr D.Y. Patil</h5>
+			<h5 class="text-center">Founder President, D. Y. Patil Group</h5>
         </div>
         <br>
     </div>
@@ -17,6 +18,7 @@
                     <h5 class="card-title text-center">Patron</h5>
                     <img src="./assets/img/vdyp.jpeg" alt="...">
                     <h5 class="text-center">Hon. Dr. Vijay D. Patil</h5>
+					<h5 class="text-center">Chancellor, D. Y. Patil Deemed to be University</h5>
                 </div>
                 <br>
             </div>
@@ -28,6 +30,7 @@
                     <h5 class="card-title text-center">Patron</h5>
                     <img src="./assets/img/svdyp.jpeg" alt="...">
                     <h5 class="text-center">Hon. Ms. Shivani Patil</h5>
+					<h5 class="text-center">Managing Trustee, D. Y. Patil Deemed to be University</h5>
                 </div>
                 <br>
             </div>
@@ -41,7 +44,7 @@
                 <div class="card-body">
                     <h5 class="card-title text-center">Conference Chair</h5>
                     
-                    <h5 class="text-center">Dr. M.D.Patil</h5>
+                    <h5 class="text-center">Dr. Mukesh.D.Patil</h5>
                 </div>
                 <br>
             </div>
@@ -53,7 +56,7 @@
                 <div class="card-body">
                     <h5 class="card-title text-center">Convener</h5>
                     
-                    <h5 class="text-center">Dr. Vishwesh Vyavhare</h5>
+                    <h5 class="text-center">Dr. Vishwesh Vyawhare</h5>
                 </div>
                 <br>
             </div>
@@ -68,13 +71,13 @@
         International Program Committee <br>
         <ul>
 		<li>Dr. Narendra S. Chaudhari <br>
-		Ph.D. (CSE, IIT, Bombay), M.Tech. (CS), IIT, Bombay, B.Tech. (EE) (Distinction), IIT, Bombay), Vice Chancellor - Uttarakhand Technical University (UTU), Dehradun
+		Uttarakhand Technical University (UTU), Dehradun
 		</li><br>
 		<li>Dr. Nilanjan Dey (Editor with Springer- Nature inspired Computing) <br>
-		Techno India College of Technology, Kolkata, India, Visiting fellow, University of Reading, UK, Ambassador- IFIP InterYIT, India
+		University of Reading, UK, Ambassador- IFIP InterYIT, India
 		</li><br>
 		<li>Dr. Sathishkumar Samiappan <br>
-		"Assistant Research Professor, Mississippi State University"</li><br>
+		Mississippi State University</li><br>
 		<li>Prof. Bijnan Bandyopadhyay <br>
 		IIT Bombay</li><br>
 		<li>Dr. Soumya Sahoo <br>
@@ -83,6 +86,16 @@
 		IIT Kanpur</li><br>
 		<li>Dr. Sudarshan <br>
 		Bosch, China</li><br>
+		<li>Dr. Lori Mann Bruce <br>
+		Tennessee Tech University, Cookeville, TN</li><br>
+		<li>Dr. Avik Bhattacharya <br>
+		IIT Bombay</li><br>
+		<li>Dr. B. K. Mohan <br>
+		IIT Bombay</li><br>
+		<li>Dr. PSV Natraj <br>
+		IIT Bombay</li><br>
+		<li>Dr. Lorenzo Bruzzone <br>
+		University of Trento, Italy</li><br>
 		</ul>
     </li>
     <br>
@@ -107,13 +120,11 @@
     <br>
     <li>
         Organization Committee <br>
-        Name1
-        Name2
+        Will be updated soon...
     </li>
     <br>
     <li>
         Hospitality Committee <br>
-        Name1
-        Name2
+        Will be updated soon...
     </li>
 </ul>
