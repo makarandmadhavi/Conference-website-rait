@@ -54,7 +54,7 @@
                         <li class="nav-item nav-link" onclick="changetab(this.id)" id="accommodation">
                             Accommodation
                         </li>
-                        <li class="nav-item nav-link" onclick="changetab(this.id)" id="contact_us">
+                        <li class="nav-item nav-link" onclick="changetab(this.id)" id="contact">
                             Contact Us
                         </li>
 
