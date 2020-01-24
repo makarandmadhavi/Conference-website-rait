@@ -183,7 +183,7 @@ p {
   background: url('../../assets/img/auditorium.jpg');
 }
 
-.card {
+.card-person {
   /* border: none !important; */
   max-width: 15rem;
   padding: 2% 0%;
