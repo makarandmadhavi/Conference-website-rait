@@ -13,7 +13,7 @@ body {
   color: #9E1C36 !important;
 }
 
-nav{
+nav {
   padding: 0px !important;
 }
 
@@ -79,7 +79,7 @@ nav li {
 
 .aside-1 {
   background: #F7F7F7;
-  height: 500px;
+  min-height: 500px;
 }
 
 .aside-2 {
@@ -147,15 +147,17 @@ p {
   #map {
     width: 100%;
   }
-  
-  .carousel-item{
+
+  .carousel-item {
     height: 250px;
   }
+
 }
+
 .nav-link:hover {
   background-color: white;
   color: #9E1C36 !important;
-  
+
 }
 
 .active {
@@ -168,25 +170,36 @@ p {
 }
 
 .carousel-item .img {
-  max-height :350px;
+  max-height: 350px;
   background-size: cover;
 }
-.img1{
+
+.img1 {
   background: url('../img/raitpic1.jpg');
   background-position: 0 -50px;
 }
-.img2{
+
+.img2 {
   background: url('../../assets/img/raitcircle.jpg');
   background-position: 0 -130px;
 }
-.img3{
+
+.img3 {
   background: url('../../assets/img/auditorium.jpg');
 }
 
 .card-person {
   /* border: none !important; */
-  max-width: 15rem;
-  padding: 2% 0%;
+  max-width: 18rem;
+  padding: 2% 2%;
+}
+
+.card-no-photo {
+  /* border: none !important; */
+  width: 30rem;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px !important;
 }
 
 .card-body {
@@ -194,7 +207,7 @@ p {
   flex-direction: column;
   justify-items: center;
   justify-content: center;
-  
+
 }
 
 .card-body img {
@@ -202,6 +215,8 @@ p {
   margin-right: auto;
   margin-left: auto;
   margin-bottom: 10px;
-  
-  
+}
+
+.btn-link {
+  color: black;
 }
