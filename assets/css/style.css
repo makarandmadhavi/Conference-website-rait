@@ -152,6 +152,14 @@ p {
     height: 250px;
   }
 
+  #main {
+    max-width: 100%;
+  }
+
+  .card-no-photo {
+    max-width: 100%;
+  }
+
 }
 
 .nav-link:hover {
