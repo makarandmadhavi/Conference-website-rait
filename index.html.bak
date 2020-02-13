@@ -69,7 +69,7 @@
                 <p align="justify"> The first International Conference on Automation, Computing and Communication aims to bring together
                     researchers in these fields and
                     create a strong community which thrive on the frontier of technology.</p>
-                <p align="justify"> All the accepted and presented papers will be published online (open-access) with MATEC Web of Conferences, EDP Sciences, <b>France</b>. It is indexed in CrossRef, Web Of Sciences, Inspec, DOAJ, EBSCO.</p>
+                <p align="justify"> All the accepted and presented papers will be published online (open-access) with <a href="https://www.matec-conferences.org/">MATEC Web of Conferences</a> EDP Sciences, <b>France</b>. It is indexed in CrossRef, Web Of Sciences, Inspec, DOAJ, EBSCO.</p>
 				
                              
                 <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
@@ -106,7 +106,7 @@
                 
             </article>
             <aside class="aside aside-1 card-header">
-				<img src="assets/img/matec.jpg" style="width:206px; margin-top:-5px;"><br>
+				<img src="assets/img/matec.jpg" style="width:206px; margin-top:-5px;"><br><br>
 				Technically Co-Sponsored By: <br><br>
 				<img src="assets/img/IEEE_Bombay_Section_Logo.jpg" style="width:206px; margin-top:-5px;">
 
