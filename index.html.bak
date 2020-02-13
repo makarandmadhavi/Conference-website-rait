@@ -54,7 +54,7 @@
                         <li class="nav-item nav-link" onclick="changetab(this.id)" id="accommodation">
                             Accommodation
                         </li>
-                        <li class="nav-item nav-link" onclick="changetab(this.id)" id="contact">
+                        <li class="nav-item nav-link" onclick="changetab(this.id)" id="contact_us">
                             Contact Us
                         </li>
 
@@ -69,7 +69,8 @@
                 <p align="justify"> The first International Conference on Automation, Computing and Communication aims to bring together
                     researchers in these fields and
                     create a strong community which thrive on the frontier of technology.</p>
-                <p align="justify"> The accepted papers will be published online through reputed publisher. </p>
+                <p align="justify"> All the accepted and presented papers will be published online (open-access) with MATEC Web of Conferences, EDP Sciences, <b>France</b>. It is indexed in CrossRef, Web Of Sciences, Inspec, DOAJ, EBSCO.</p>
+				
                              
                 <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
                     <ol class="carousel-indicators">
@@ -104,7 +105,15 @@
                     <p align="justify"> RAIT is a recognised research center of University of Mumbai offering PhD in Electronics Engineering, Computer Engineering, Instrumentation Engineering and Electronics and Telecommuincation Engineering. It is accredited by NAAC with "A" grade in 2016 for 5 years and holds 172 position in NIRF-2019. Departments of Electronics Engineering, Computer Engineering and Electronics & Telecommunication Engineering are re-accredited by National Board or Accreditation (NBA) in 2018 for 3 years.</p>        
                 
             </article>
-            <aside class="aside aside-1 card-header">Sponsors</aside>
+            <aside class="aside aside-1 card-header">
+				<img src="assets/img/matec.jpg" style="width:206px; margin-top:-5px;"><br>
+				Technically Co-Sponsored By: <br><br>
+				<img src="assets/img/IEEE_Bombay_Section_Logo.jpg" style="width:206px; margin-top:-5px;">
+
+			
+			
+			
+			</aside>
             <aside class="aside aside-2">
                 <div class="card text-center">
                     <div class="card-header">
@@ -112,11 +121,11 @@
                     </div>
                     <div class="card-body">
                         <ul class="list-group list-group-flush">
-                            <li class="list-group-item">Submission of Regular Papers: <br> 16<sup>th</sup> February 2020 (Sunday)
+                            <li class="list-group-item">Submission of Regular Papers: <br> 1<sup>st</sup> March 2020 (Sunday)
                             </li>
-                            <li class="list-group-item">Acceptance Notification: <br> 6<sup>th</sup> March 2020 (Friday)
+                            <li class="list-group-item">Acceptance Notification: <br> 13<sup>th</sup> March 2020 (Friday)
                             </li>
-                            <li class="list-group-item">Date of Registration : <br> 13<sup>th</sup> March 2020 (Friday)
+                            <li class="list-group-item">Date of Registration : <br> 20<sup>th</sup> March 2020 (Friday)
                             </li>
                         </ul>
                     </div>
