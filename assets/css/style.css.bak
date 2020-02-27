@@ -71,7 +71,7 @@ nav li {
   color: white;
   background: #9E1C36;
   margin-top: 5px;
-  position: absolute !important;
+  position: absolute;
 }
 
 .main {
