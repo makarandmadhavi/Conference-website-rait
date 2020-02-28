@@ -6,7 +6,7 @@ h2 {
 
 body {
   margin: 20px;
-  font-family: Arial;
+  font-family: roboto;
 }
 
 .card-header {
@@ -16,7 +16,6 @@ body {
 nav {
   padding: 0px !important;
 }
-
 
 
 nav ul {
@@ -71,7 +70,6 @@ nav li {
   color: white;
   background: #9E1C36;
   margin-top: 5px;
-  position: absolute !important;
 }
 
 .main {
